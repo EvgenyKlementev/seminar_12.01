@@ -3,7 +3,7 @@
 
 Console.WriteLine("Введите ваше имя");
 
-string UserName = Console.ReadLine();
+stringe UserName = Console.ReadLine();
 
 Console.WriteLine("Привет, Евгений");
 
